@@ -1,0 +1,3 @@
+token twitch: 7937689301:AAFB_VM7IzJrOkUiLX-Sponto_8wZ_ULefk
+ID do cliente g0a6hxzhzx72ojxtbkehh368y60pia
+Client Secret: q3y5w7wkbkoit88k8fq3vjc9h4wpsq

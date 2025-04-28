@@ -1,0 +1,5 @@
+TELEGRAM_TOKEN = '7937689301:AAFB_VM7IzJrOkUiLX-Sponto_8wZ_ULefk'  # Token do Bot do Telegram
+TWITCH_CLIENT_ID = 'g0a6hxzhzx72ojxtbkehh368y60pia'
+TWITCH_CLIENT_SECRET = 'q3y5w7wkbkoit88k8fq3vjc9h4wpsq'
+TWITCH_USER_LOGIN = 'furiatv'
+TWITCH_ACCESS_TOKEN = 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9...'
